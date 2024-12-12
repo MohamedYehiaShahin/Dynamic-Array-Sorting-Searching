@@ -1,0 +1,11 @@
+D:\C#Advanced\DSA\DArray\bin\Debug\net8.0\DArray.deps.json
+D:\C#Advanced\DSA\DArray\bin\Debug\net8.0\DArray.dll
+D:\C#Advanced\DSA\DArray\bin\Debug\net8.0\DArray.pdb
+D:\C#Advanced\DSA\DArray\obj\Debug\net8.0\DArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Advanced\DSA\DArray\obj\Debug\net8.0\DArray.AssemblyInfoInputs.cache
+D:\C#Advanced\DSA\DArray\obj\Debug\net8.0\DArray.AssemblyInfo.cs
+D:\C#Advanced\DSA\DArray\obj\Debug\net8.0\DArray.csproj.CoreCompileInputs.cache
+D:\C#Advanced\DSA\DArray\obj\Debug\net8.0\DArray.dll
+D:\C#Advanced\DSA\DArray\obj\Debug\net8.0\refint\DArray.dll
+D:\C#Advanced\DSA\DArray\obj\Debug\net8.0\DArray.pdb
+D:\C#Advanced\DSA\DArray\obj\Debug\net8.0\ref\DArray.dll

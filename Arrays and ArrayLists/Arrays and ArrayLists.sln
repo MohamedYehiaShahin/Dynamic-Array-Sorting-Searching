@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays and ArrayLists", "Arrays and ArrayLists.csproj", "{D4080C41-B616-4565-BA77-DF8D34E4B068}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DArray", "..\DArray\DArray.csproj", "{59E55123-0774-487A-815D-9308B723A4CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "..\Sorting\Sorting.csproj", "{39D435B8-72C9-4922-B694-921E33617D13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4080C41-B616-4565-BA77-DF8D34E4B068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4080C41-B616-4565-BA77-DF8D34E4B068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4080C41-B616-4565-BA77-DF8D34E4B068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4080C41-B616-4565-BA77-DF8D34E4B068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59E55123-0774-487A-815D-9308B723A4CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59E55123-0774-487A-815D-9308B723A4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59E55123-0774-487A-815D-9308B723A4CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59E55123-0774-487A-815D-9308B723A4CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39D435B8-72C9-4922-B694-921E33617D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D435B8-72C9-4922-B694-921E33617D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D435B8-72C9-4922-B694-921E33617D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39D435B8-72C9-4922-B694-921E33617D13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D66447D9-E9E7-4B59-A9AB-2B8983A63802}
+	EndGlobalSection
+EndGlobal

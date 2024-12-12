@@ -1,0 +1,14 @@
+D:\C#Advanced\DSA\Arrays and ArrayLists\bin\Debug\net8.0\Arrays and ArrayLists.exe
+D:\C#Advanced\DSA\Arrays and ArrayLists\bin\Debug\net8.0\Arrays and ArrayLists.deps.json
+D:\C#Advanced\DSA\Arrays and ArrayLists\bin\Debug\net8.0\Arrays and ArrayLists.runtimeconfig.json
+D:\C#Advanced\DSA\Arrays and ArrayLists\bin\Debug\net8.0\Arrays and ArrayLists.dll
+D:\C#Advanced\DSA\Arrays and ArrayLists\bin\Debug\net8.0\Arrays and ArrayLists.pdb
+D:\C#Advanced\DSA\Arrays and ArrayLists\obj\Debug\net8.0\Arrays and ArrayLists.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Advanced\DSA\Arrays and ArrayLists\obj\Debug\net8.0\Arrays and ArrayLists.AssemblyInfoInputs.cache
+D:\C#Advanced\DSA\Arrays and ArrayLists\obj\Debug\net8.0\Arrays and ArrayLists.AssemblyInfo.cs
+D:\C#Advanced\DSA\Arrays and ArrayLists\obj\Debug\net8.0\Arrays and ArrayLists.csproj.CoreCompileInputs.cache
+D:\C#Advanced\DSA\Arrays and ArrayLists\obj\Debug\net8.0\Arrays and ArrayLists.dll
+D:\C#Advanced\DSA\Arrays and ArrayLists\obj\Debug\net8.0\refint\Arrays and ArrayLists.dll
+D:\C#Advanced\DSA\Arrays and ArrayLists\obj\Debug\net8.0\Arrays and ArrayLists.pdb
+D:\C#Advanced\DSA\Arrays and ArrayLists\obj\Debug\net8.0\Arrays and ArrayLists.genruntimeconfig.cache
+D:\C#Advanced\DSA\Arrays and ArrayLists\obj\Debug\net8.0\ref\Arrays and ArrayLists.dll
